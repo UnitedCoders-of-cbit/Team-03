@@ -1,0 +1,4 @@
+
+RewriteEngine on  
+  
+RewriteRule ^Forgot-Password f-pass.php [NC,L]
